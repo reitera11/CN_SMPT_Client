@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		EEB488DC18DE6153005762E5 /* SMTP_Client.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = SMTP_Client.py; sourceTree = "<group>"; usesTabs = 1; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		EEB488D118DE611C005762E5 = {
 			isa = PBXGroup;
 			children = (
+				EEB488DC18DE6153005762E5 /* SMTP_Client.py */,
 			);
 			sourceTree = "<group>";
 		};
